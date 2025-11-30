@@ -1,0 +1,2 @@
+# Zero Knowledge Proof Authentication System
+# No external dependencies required - only uses Python standard library
